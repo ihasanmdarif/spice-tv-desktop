@@ -45,5 +45,10 @@ you to confirm the first time you open it. This is expected.
 
 ## Updating
 
-The app does not update itself yet. When a new version is posted here,
-download it and install it over the old one.
+**Windows and Linux** update themselves: when a new version is out, it
+downloads in the background, you get a notification, and it installs the
+next time you close the app. (Version 0.1.0 does not do this yet; install
+0.1.1 or newer by hand once.)
+
+**Mac** does not update itself yet. When a new version is posted here,
+download it and drag it into Applications over the old one.
